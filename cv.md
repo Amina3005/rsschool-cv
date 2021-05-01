@@ -27,6 +27,7 @@ Here is the [link](https://github.com/Amina3005/Pokemon)
  Here is the [link]https://github.com/Amina3005/KitchenTime)
 ## Education
 **2016-2020** Kazakh National Pedagogical university
+
 I've took android courses from Udacity, there're [Android Basics: UI](https://www.udacity.com/course/android-basics-user-interface--ud834), [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
     **Certificates**
